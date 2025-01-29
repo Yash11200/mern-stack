@@ -1,0 +1,21 @@
+{
+  "name": "mern-stack",
+  "version": "1.0.0",
+  "description": "Title: Shopping Website using MERN <br> This is a full-stack web application built using the MERN stack (MongoDB, Express.js, React, and Node.js). It features a responsive front end, a RESTful backend, and MongoDB for data persistence. It is perfect for learning, experimenting, or deploying a functional web app!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yash11200/mern-stack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Yash11200/mern-stack/issues"
+  },
+  "homepage": "https://github.com/Yash11200/mern-stack#readme"
+}
